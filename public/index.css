@@ -1,0 +1,42 @@
+body
+{
+	background : black;
+	background-size: 1920px 1080px;
+}
+
+.button
+{
+	position: absolute;
+	color : red;
+}
+
+#chatButton
+{
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background:url(gachi.jpg) no-repeat;
+	background-size: 300px 300px;
+	font-size: 50px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	width: 300px;
+    height: 300px;
+}
+
+#addOptionsButton
+{
+	left: 90%;
+}
+
+#developersLink
+{
+	position: absolute;
+	left: 90%;
+	top: 95%;
+}
+
+#questionMark
+{
+	
+}
